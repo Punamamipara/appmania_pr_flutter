@@ -1,16 +1,3 @@
-# appmania
-
-A new Flutter project.
-
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+![Screenshot 2023-05-04 103946](https://user-images.githubusercontent.com/119948028/236118616-b29be498-f85b-4ccd-ac08-df8049691232.png)
+![Screenshot 2023-05-04 104309](https://user-images.githubusercontent.com/119948028/236118619-81353b0c-1b80-4152-a2aa-06e0b2c0ccff.png)
+![Screenshot 2023-05-04 104418](https://user-images.githubusercontent.com/119948028/236118624-edb2ea0b-5419-42bb-ba1f-865fde159f53.png)
